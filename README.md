@@ -9,7 +9,7 @@ The goal is to understand how AI influences trends, adoption patterns, and key m
 
 ## 📊 Dataset
 - **Source:** AI-related dataset (industry / trend analysis)
-- **Dataset Link:**https://www.kaggle.com/datasets/sahilislam007/ai-impact-on-job-market-20242030?utm_source
+- **Dataset Link:** https://www.kaggle.com/datasets/sahilislam007/ai-impact-on-job-market-20242030?utm_source
 
 ---
 
@@ -79,6 +79,9 @@ The notebook includes visualizations and insights showing:
 
 **Sample Results:**
 
+<img width="500" height="700" alt="Top10_JobTitles_HighAutomationRisk" src="https://github.com/user-attachments/assets/25dfb3c3-7ec2-4867-8014-02496e18f6b7" />
+
+<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/1632fa28-3b28-4d26-809d-bca48a07631b" />
 
 
 ---
